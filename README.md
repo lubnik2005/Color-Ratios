@@ -1,6 +1,6 @@
-# Bingo LoterÍa Productiva
+# Color Ratios
 
-A themed math bingo game for  elementary school students.
+A visual demonstration showing how ratios work.
 
 ![alt text](./demo.gif "Demo")
 
