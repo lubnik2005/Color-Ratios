@@ -1,4 +1,13 @@
-# beaker
+# Bingo LoterÍa Productiva
+
+A themed math bingo game for  elementary school students.
+
+![alt text](./demo.gif "Demo")
+
+## Demo
+
+View live deployment [here](https://www.math.uci.edu/~mathceo/games/color-ratios/)
+
 
 ## Project setup
 ```
